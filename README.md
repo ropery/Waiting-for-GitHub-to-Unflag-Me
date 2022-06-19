@@ -1,4 +1,11 @@
-2022-06-18: I finally got a reply from GitHub Support to my ticket asking that
+**2022-03-30**: GitHub flagged my account:
+
+> **Your account has been flagged.**<br>
+> Because of that, your profile is hidden from the public. If you believe this
+> is a mistake, [contact support](https://github.com/contact) to have your
+> account status reviewed.
+
+**2022-06-18**: I finally got a reply from GitHub Support to my ticket asking that
 my account be un-flagged. My account is still flagged, for how much longer I
 can't guess.
 
@@ -56,3 +63,24 @@ out: "Please contact us if you'd like to rename your account."
 
 Goodness! Shall I go through that again, and wait another three months?
 
+**2022-06-19**: I had my username changed, account un-flagged. I'm now @ropery.
+
+Fortunately, GitHub Support replied to my follow-up question in the original
+ticket, offering to assist me in changing my username without my having to open
+a separate ticket. (You more often get pleasantly surprised if you set your
+expectations low, natch.)
+
+The renaming of account took eight hours after I sent my request.
+
+@lolilolicon is dead; hang on @loli, @lolita, and especially @lolicon (Pray,
+motherfucker!) Now it's clear, given the survivors, some bluenose yellow
+back-stabber reported on me. Who among you cowards reported on me‽ A pox on
+that roperipe! And this woke-ity-woke bullshit? It's a shame.
+
+And shame on GitHub for their inhuman tardiness. They obviously need to hire
+more people to do support. But in this particular case, the whole thing could
+have been automated: so they decide my username is a violation, cool whatever,
+just tell me that immediately after (or better, before!) flagging my account,
+giving me a way to DIY-change my username, upon which my account is un-flagged
+automatically. What actually happened, the whole thing was stupid, and shows
+GitHub up for the lumbering fritzy bureaucracy it's become. Shame.
