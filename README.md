@@ -63,7 +63,10 @@ out: "Please contact us if you'd like to rename your account."
 
 Goodness! Shall I go through that again, and wait another three months?
 
-**2022-06-19**: I had my username changed, account un-flagged. I'm now @ropery.
+**2022-06-19**: I had my username changed, account un-flagged. I'm now @ropery,
+(which is a cooler name; I mean I could have asked for @gigogigolo or
+@dildodildolong for continuity and shits and giggles, but would it have been
+accepted? And in this climate, why risk it?)
 
 Fortunately, GitHub Support replied to my follow-up question in the original
 ticket, offering to assist me in changing my username without my having to open
